@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, run in order:
 
-### `First step: npm install`
-### `Second step: npm start`
+### First step: `npm install`
+### Second step: `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
